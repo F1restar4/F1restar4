@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1611" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1927" class="">
     <defs>
         <style/>
     </defs>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            259 Commits
+                            260 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    863 MB used
+                                    864 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -561,6 +561,7 @@
                                 <g transform="translate(510, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1054,6 +1055,184 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 49 commits in
+                                        <span class="repo">F1restar4/space-station-14</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#49e0157</div>
+                                        <div class="message">Adds stencil lettering to the spraypainter (#39701)
+
+* adds stencil lettering to the spraypainter
+
+* update decal IDs to match convention</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c55157f</div>
+                                        <div class="message">Automatic changelog update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d61ebf2</div>
+                                        <div class="message">Fix grenades not playing sounds when detonating (#39815)
+
+fix grenade sounds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#027ec91</div>
+                                        <div class="message">Recolor Mime and Musician job icons (#39775)
+
+cherry pick from DinnerCalzone/icons
+
+Resprite Service job icons to match each other
+
+Co-authored-by: iaada &lt;iaada@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4f96fd</div>
+                                        <div class="message">predict morgue and crematorium (#39293)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be62e08</div>
+                                        <div class="message">Automatic changelog update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f67cebf</div>
+                                        <div class="message">Admin Log Browser Improvements (#39130)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#002d927</div>
+                                        <div class="message">Fixed a typo involving the Space Lizard Plushie (#39808)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c546a0</div>
+                                        <div class="message">Predict Mind Roles (#39611)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b124d0d</div>
+                                        <div class="message">Cane Sword Priority Fix (#39795)
+
+GOTTA GO FAST
+
+Co-authored-by: Princess Cheeseballs &lt;66055347+Pronana@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac09e16</div>
+                                        <div class="message">Automatic changelog update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d0573e</div>
+                                        <div class="message">Added Hemophilia Trait (#38224)
+
+Co-authored-by: ScarKy0 &lt;scarky0@onet.eu&gt;
+Co-authored-by: slarticodefast &lt;161409025+slarticodefast@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96d3b4b</div>
+                                        <div class="message">Automatic changelog update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd0cc72</div>
+                                        <div class="message">Impaired Mobility Disability (#39398)
+
+* Implements mobility impairment
+
+* Implements mobility impairment
+
+* Implements mobility impairment
+
+* Removed white cane related stuff (impaired cane replacement and removed mobility aid component)
+
+* fix development.toml
+
+* Implements slower standing
+
+* Prevent speed stacking by checking if the entity is already holding a mobility aid
+
+* Move all speed handling into ImpairedMobilitySystem, added comments, made it so wielding a mobility aid doesn't grant the recovery benefit
+
+* Move all speed handling into ImpairedMobilitySystem, added comments, made it so wielding a mobility aid doesn't grant the recovery benefit
+
+* remove unused file
+
+* Shorten description
+
+* Apply suggestions
+
+Co-authored-by: Princess Cheeseballs &lt;66055347+Princess-Cheeseballs@users.noreply.github.com&gt;
+
+* Suggestion cleanup
+
+* formatting fix and removed extra datafield stuff
+
+* added comment, fixed slashes, yadda yadda
+
+* summary comments
+
+* removed a word
+
+* Add trait to clone whitelist
+
+* Fix clone.yml
+
+* my own review
+
+---------
+
+Co-authored-by: Princess Cheeseballs &lt;66055347+Princess-Cheeseballs@users.noreply.github.com&gt;
+Co-authored-by: ScarKy0 &lt;scarky0@onet.eu&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d286a70</div>
+                                        <div class="message">cleanup changeling namespaces and prototypes (#39794)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5011cb</div>
+                                        <div class="message">Automatic changelog update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f782805</div>
+                                        <div class="message">Moving Zombie Components to Shared (#39791)
+
+* Moving Comps to Shared
+
+* Requested Changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#def514b</div>
+                                        <div class="message">Fix tricky nades not emitting their sounds. (#39792)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b8fa1a</div>
+                                        <div class="message">fix: spellbooks can have charges ≠ 3 (#38769)
+
+* fix: spellbooks can have charges ≠ 3
+
+* refactor: just make setting MaxCharges an api thing
+
+* refactor: don't auto-add LimitedCharges
+
+* Small stuff
+
+---------
+
+Co-authored-by: Princess Cheeseballs &lt;66055347+Pronana@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd74bfc</div>
+                                        <div class="message">Remove BodyComponent check from MobPrice test (#39786)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1414,34 +1593,12 @@ Co-authored-by: iaada &lt;iaada@users.noreply.github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">F1restar4/space-station-14</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d55aa4b</div>
-                                        <div class="message">hm
-
-Signed-off-by: Firestar4 &lt;firestar@firestar4.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Aug 2025, 20:08:37 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2025, 20:06:06 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
