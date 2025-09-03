@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -35,8 +35,8 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            273 Commits
+                            278 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -570,6 +570,7 @@
                                 <g transform="translate(525, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1066,6 +1067,131 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 30 commits in
+                                        <span class="repo">F1restar4/space-station-14</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#40b0b49</div>
+                                        <div class="message">Automatic changelog update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86e77f0</div>
+                                        <div class="message">Predict InjectorSystem (#39976)
+
+* predict injectors
+
+* hide verbs if no options</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#feb0fac</div>
+                                        <div class="message">Automatic changelog update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#817a297</div>
+                                        <div class="message">Moths cannot eject items from military boots (#40049)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#145b2a6</div>
+                                        <div class="message">set slot priority to 4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f36a3b</div>
+                                        <div class="message">Fix docstring typo starts -&gt; stops (#40031)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ee093b</div>
+                                        <div class="message">Merge stable into master (#40034)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c506432</div>
+                                        <div class="message">Terminal Hotfix (#40027)
+
+* Resave terminal.yml
+
+* Fix airlock</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d25cae</div>
+                                        <div class="message">TriggerOnMeleeHit and more (#39826)
+
+Co-authored-by: iaada &lt;iaada@users.noreply.github.com&gt;
+Co-authored-by: slarticodefast &lt;161409025+slarticodefast@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ba5d03</div>
+                                        <div class="message">improve spawnpoint error logging (#40021)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f5d05c</div>
+                                        <div class="message">Stable merge (#40025)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5100068</div>
+                                        <div class="message">Revert "Admin Log Browser Improvements (#39130)"
+
+This reverts commit f67cebf7a4ed451f1911aa5c8bf6f04c198b917f.
+
+Per request of @Kowlin and @southbridge-fur
+
+Check out https://github.com/space-wizards/space-station-14/issues/39960 for further information</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c706cd</div>
+                                        <div class="message">Automatic changelog update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e23e45</div>
+                                        <div class="message">Migrate all mechs to PartAssembly and remove legacy MechAssemblySystem (#39027)
+
+* Removed the old MechAssembly system and component.
+Converted all mechs to use the unified PartAssembly system.
+Removed dismantling mechs during assembly logic to simplify the code.
+
+* Delete Chassis via migration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#487c280</div>
+                                        <div class="message">Staging to master merge (#40013)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1150053</div>
+                                        <div class="message">Fix latejoin spawner on Plasma (#40012)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4bd973</div>
+                                        <div class="message">Fix latejoinspawner on Exo (#40011)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b41cbcf</div>
+                                        <div class="message">Fix latejoinspawner on Elkridge (#40010)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c061798</div>
+                                        <div class="message">[STAGING] 1984 Derelict Syndicate Borgs (#39978)
+
+1984
+
+Co-authored-by: Princess Cheeseballs &lt;66055347+Pronana@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0edd848</div>
+                                        <div class="message">Don't network ZombifyOnDeathComponent and ZombieImmuneComponent (#39963)
+
+no networking</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 17 commits in
                                         <span class="repo">F1restar4/space-station-14</span>
                                     </div>
@@ -1379,162 +1505,12 @@ Co-authored-by: Princess Cheeseballs &lt;66055347+Pronana@users.noreply.github.c
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 78 commits in
-                                        <span class="repo">F1restar4/space-station-14</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#af82954</div>
-                                        <div class="message">Automatic changelog update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d35435</div>
-                                        <div class="message">Allows disabler, practice disabler, disabler SMG, and practice laser rifle to be used by pacifists (#37164)
-
-Co-authored-by: august-sun &lt;45527070+august.sun@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26badb7</div>
-                                        <div class="message">Update OpenTK to latest (#39227)
-
-Co-authored-by: PJB3005 &lt;pieterjan.briers+git@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#497a595</div>
-                                        <div class="message">fix cl (#39706)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5630bf6</div>
-                                        <div class="message">Removes duplicate CE and paramedic jumpsuits (#39520)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d58ef22</div>
-                                        <div class="message">Make diagonal grilles transparent (#39580)
-
-* tiny fix
-
-* also fix the window bug
-
----------
-
-Co-authored-by: ruddygreat &lt;ruddygreat1@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f83cc7</div>
-                                        <div class="message">Automatic changelog update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e34228</div>
-                                        <div class="message">Packed Station - North East Overhaul (#38339)
-
-Co-authored-by: ArtisticRoomba &lt;145879011+ArtisticRoomba@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#367156f</div>
-                                        <div class="message">Automatic changelog update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#514c281</div>
-                                        <div class="message">Fix typo and make capitalization consistent in fax names (#39455)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ea9288</div>
-                                        <div class="message">Cleanup warnings in ChatSystem (#36773)
-
-* Cleanup warnings in ChatSystem
-
-* fix after merge
-
----------
-
-Co-authored-by: pa.pecherskij &lt;pa.pecherskij@interfax.ru&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bf44ea</div>
-                                        <div class="message">Update Credits (#39697)
-
-Co-authored-by: PJBot &lt;pieterjan.briers+bot@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b16a83</div>
-                                        <div class="message">Automatic changelog update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01f4f0c</div>
-                                        <div class="message">Increase the bananium horn use delay (#39674)
-
-Increase bananium horn use delay to 3 seconds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e8260c</div>
-                                        <div class="message">Trigger for OnInteractUsing (#39692)
-
-* Add trigger for InteractOnUsing
-
-* Add blacklist and targetUsed fields
-
-* Update Content.Shared/Trigger/Components/Triggers/TriggerOnInteractUsingComponent.cs
-
----------
-
-Co-authored-by: slarticodefast &lt;161409025+slarticodefast@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#201bc6c</div>
-                                        <div class="message">Swap ExudeGasses and ConsumeGasses (#39688)
-
-Uh, um</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd05e10</div>
-                                        <div class="message">Merge staging into master (#39694)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85158a3</div>
-                                        <div class="message">Fix industrial reagent grinder bug, second attempt (#39690)
-
-* fix recycler 3
-
-* Update Resources/Prototypes/Entities/Structures/Machines/reagent_grinder.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14a45f1</div>
-                                        <div class="message">Reduce LevelOfParallelism to 2 for integration tests (#39566)
-
-less paralelliism</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a52ca6</div>
-                                        <div class="message">[HOTFIX] Stop players from clipping through Windoors (#39564)
-
-* Don't have standing state edit soft fixtures?
-
-* Bugfix
-
-* Cherry pick acquired
-
----------
-
-Co-authored-by: Princess Cheeseballs &lt;66055347+Pronana@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Sept 2025, 20:06:45 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Sept 2025, 20:02:26 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
